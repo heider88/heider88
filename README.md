@@ -55,11 +55,7 @@ Repositorio de trabajo en grupo para la asignatura de Ingeniería de Software.
 Contiene tareas, documentación y avances del proyecto.  
 🔗 https://github.com/heider88/Proyecto-ingesoft
 
-### Manual-de-usuario
-Documentación y manuales relacionados con el proyecto.  
-🔗 https://github.com/heider88/Manual-de-usuario
 
-*(Agregar enlaces a más repositorios a medida que los completes.)*
 
 ---
 
