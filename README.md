@@ -2,7 +2,7 @@
 
 > *"Architecting intelligent systems at scale. Leveraging generative AI tools to accelerate the SDLC and build robust, high-performance software."*
 
-📍 **Bogotá, Colombia** ✦ [LinkedIn](#) ✦ [Email](mailto:tu-correo@email.com)
+📍 **Bogotá, Colombia** ✦ 🌐 **[Portafolio](https://mi-portafolio-nine-gamma.vercel.app/)** ✦ [LinkedIn](www.linkedin.com/in/heider-navarro) ✦ [Email](mailto:hnavarroq@unal.edu.co)
 
 ---
 
